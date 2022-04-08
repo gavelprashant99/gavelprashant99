@@ -1,16 +1,11 @@
 ### Hi there 👋
+I am currently pursuing Master of Computer Applications (MCA) from Pt. Ravishankar Shukla University, Raipur with a well-honed interest in Android Development.
 
-<!--
-**gavelprashant99/gavelprashant99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as an Intern at CHiPS.
+- 🌱 I’m currently learning Android
+- 💬 Ask me anything about my projects!
+- 📫 How to reach me:prashantgavel99@gmail.com
+- 😄 Pronouns:he/him
+- ⚡ fact: I search for meaning and purpose, even in small things.
 
-- 🔭 I’m currently working on ...Android
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
