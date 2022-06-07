@@ -3,7 +3,7 @@ I am currently pursuing Master of Computer Applications (MCA) from Pt. Ravishank
 
 
 - 🔭 I’m currently working as an Intern at CHiPS.
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Web Development.
 - 💬 Ask me anything about my projects!
 - 📫 How to reach me:prashantgavel99@gmail.com
 - 😄 Pronouns:he/him
