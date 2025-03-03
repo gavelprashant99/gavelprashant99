@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Gavel</h1>
-<h3 align="center">I am currently pursuing Master of Computer Applications (MCA) from Pt. Ravishankar Shukla University, Raipur with a well-honed interest in Web Development.</h3>
+<h3 align="center">I am a Software Developer with over 2 years of experience, holding a Master of Computer Applications (MCA) from Pt. Ravishankar Shukla University, Raipur. I specialize in Web Development and have a strong focus on building dynamic, user-friendly web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavelprashant99&label=Profile%20views&color=0e75b6&style=flat" alt="gavelprashant99" /> </p>
 
